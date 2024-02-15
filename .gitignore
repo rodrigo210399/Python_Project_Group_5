@@ -1,3 +1,0 @@
-import credentials
-
-weather_api_key = credentials.weather_api_key
